@@ -1,0 +1,14 @@
+PRAMITI R
+
+Skills:
+Python
+Pandas
+Excel
+Machine Learning
+
+Projects:
+Sales Prediction
+Titanic Survival Prediction
+
+Education:
+B.Tech Information Technology
